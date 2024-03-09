@@ -940,6 +940,7 @@ function InstallApps {
             'Nextcloud'='Nextcloud.NextcloudDesktop'
             'KDEConnect'='KDE.KDEConnect'
             'Bitwarden'='Bitwarden.Bitwarden'
+	    'Portmaster'='Safing.Portmaster'
 
             # Coding
             'Git'='Git.Git'
